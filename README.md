@@ -43,7 +43,6 @@ An efficient Command Line Interface (CLI) application to manage and track your d
 
 ## 📂 Project Structure
 
-## Project URL https://github.com/juanmatz/Task-Tracker-CLi
 
 ```text
 Task Tracker Project/
@@ -53,4 +52,6 @@ Task Tracker Project/
 ├── Task.py      # Task class definition
 └── datos.json   # Database (created automatically)
 ```
+## Project URL [https://github.com/juanmatz/Task-Tracker-CLi](https://roadmap.sh/projects/task-tracker)
+
 
